@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> |
-  <a href="#development">Downloads</a> 
+  <a href="#overview">Downloads</a> 
 </p>
   
 <p align="center">
