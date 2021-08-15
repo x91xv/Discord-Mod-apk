@@ -1,4 +1,9 @@
-# Discord-Mod-apk
+<h1 align="center">Discord-Mod-apk</h1>
+
+<p align="center">
+  <img alt="Preview" width="524" alt="Hero image" src="https://user-images.githubusercontent.com/81586729/129493599-f3c280c2-3982-4974-9be2-82fa5fad5bcf.png"/>
+  <br/>
+
 this discord is modded for android you can use your gif emoji's and add themes for your discord background 
 (Disable Typing: others will not see you typing, Discord can detect you using this, Use it are your own risk!)
 (Hide Blocked Messages: Blocked messages will be compeletaly hidden.)
