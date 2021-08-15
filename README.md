@@ -25,6 +25,6 @@ NOTE:YOU CANNOT, AND NEVER WILL BE ABLE TO READ OR SEND MESSAGES IN HIDDEN CHANN
 (Rainbow Colors: This allows you to animate text and typing box colors.
 NOTE: This will override your other color settings if enabled.)
 
-## Downloads
+# Downloads
 
 If you want to install this app just press this link [Download](https://github.com/DSR-Kayfix/Discord-Mod-apk/releases/tag/Discord)
