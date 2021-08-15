@@ -30,6 +30,4 @@ NOTE: This will override your other color settings if enabled.)
 
 ## Downloads
 
-If you want to install this app just press this link [Download](https://github.com/DSR-Kayfix/Discord-Mod-apk/releases/tag/Discord) 
-
-| [Windows (7+)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe)  | [macOS (10.10+)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Mac.zip) | [Linux](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage) |
+If you want to install this app just press this link [Download](https://github.com/DSR-Kayfix/Discord-Mod-apk/releases/tag/Discord)
