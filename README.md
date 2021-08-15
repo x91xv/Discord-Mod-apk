@@ -1,7 +1,7 @@
 <h1 align="center">Discord-Mod-apk</h1>
 
 <p align="center">
-  <a href="#overview">Overview</a> |
+  <a href="#overview">Overview</a> 
 </p>
   
 <p align="center">
